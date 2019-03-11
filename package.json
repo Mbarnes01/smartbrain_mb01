@@ -1,4 +1,5 @@
 {
+  "homepage": "http://Mbarnes01.github.io/smartbrain_mb01",
   "name": "smartbrain",
   "version": "0.1.0",
   "private": true,
@@ -11,7 +12,7 @@
     "react-tilt": "^0.1.4",
     "tachyons": "^4.11.1"
   },
-  "homepage": "http://smartbrain_mb01.github.io",
+
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
